@@ -1,0 +1,13 @@
+C:\Users\igor.groita\Desktop\homework1\messageProject\messageProject\bin\Debug\netcoreapp3.1\messageProject.exe
+C:\Users\igor.groita\Desktop\homework1\messageProject\messageProject\bin\Debug\netcoreapp3.1\messageProject.deps.json
+C:\Users\igor.groita\Desktop\homework1\messageProject\messageProject\bin\Debug\netcoreapp3.1\messageProject.runtimeconfig.json
+C:\Users\igor.groita\Desktop\homework1\messageProject\messageProject\bin\Debug\netcoreapp3.1\messageProject.runtimeconfig.dev.json
+C:\Users\igor.groita\Desktop\homework1\messageProject\messageProject\bin\Debug\netcoreapp3.1\messageProject.dll
+C:\Users\igor.groita\Desktop\homework1\messageProject\messageProject\bin\Debug\netcoreapp3.1\messageProject.pdb
+C:\Users\igor.groita\Desktop\homework1\messageProject\messageProject\obj\Debug\netcoreapp3.1\messageProject.csprojAssemblyReference.cache
+C:\Users\igor.groita\Desktop\homework1\messageProject\messageProject\obj\Debug\netcoreapp3.1\messageProject.AssemblyInfoInputs.cache
+C:\Users\igor.groita\Desktop\homework1\messageProject\messageProject\obj\Debug\netcoreapp3.1\messageProject.AssemblyInfo.cs
+C:\Users\igor.groita\Desktop\homework1\messageProject\messageProject\obj\Debug\netcoreapp3.1\messageProject.csproj.CoreCompileInputs.cache
+C:\Users\igor.groita\Desktop\homework1\messageProject\messageProject\obj\Debug\netcoreapp3.1\messageProject.dll
+C:\Users\igor.groita\Desktop\homework1\messageProject\messageProject\obj\Debug\netcoreapp3.1\messageProject.pdb
+C:\Users\igor.groita\Desktop\homework1\messageProject\messageProject\obj\Debug\netcoreapp3.1\messageProject.genruntimeconfig.cache
