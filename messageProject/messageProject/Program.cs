@@ -12,11 +12,12 @@ namespace messageProject
 
             int factorial(int n)
             {
-                if (n == 0)
+                int p = 1;
+                for(int i = 1; i<=n; ++i)
                 {
-                    return 1;
+                    p *= i;
                 }
-                return n * factorial(n - 1);
+                return p;
             }
         
         }
