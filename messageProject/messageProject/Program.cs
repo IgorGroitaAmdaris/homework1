@@ -8,26 +8,18 @@ namespace messageProject
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("It would be nice to compute some factorials!");
-            
+            Console.WriteLine("9! = " + factorial(9));
+
             int factorial(int n)
             {
-                int p = 1;
-                for (int i = 1; i <= n; ++i)
+                if (n == 0)
                 {
-                    p *= i;
+                    return 1;
                 }
-                return p;
+                return n * factorial(n - 1);
             }
+        
         }
-
-        int factorial(int n)
-        {
-            int p = 1;
-            for(int i = 1; i<=n; ++i)
-            {
-                p *= i;
-            }
-            return p;
-        }
+        
     }
 }
