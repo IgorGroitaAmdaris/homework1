@@ -1,2 +1,0 @@
-﻿The gamma function is an extension of the factorial function to the set of real numbers.
-The implementation is verbose and uneasy. 
