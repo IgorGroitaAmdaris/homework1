@@ -18,6 +18,13 @@ namespace messageProject
                 }
                 return p;
             }
+            double Gamma(double x)
+            {
+                /* Still awaits implementation*/
+                return factorial((int)x);
+            }
+            Console.WriteLine(Gamma(4));
+
 
             //Some other functions
 
