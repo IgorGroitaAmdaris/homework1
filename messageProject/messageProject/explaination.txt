@@ -1,2 +1,4 @@
 ﻿The gamma function is an extension of the factorial function to the set of real numbers.
-The implementation is verbose and uneasy. 
+The implementation has to do with computing integrals.
+
+It will be done at some point in the future. Or probably not because someone already did it.
