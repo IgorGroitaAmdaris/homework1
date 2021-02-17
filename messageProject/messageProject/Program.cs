@@ -7,7 +7,6 @@ namespace messageProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console.WriteLine("It would be nice to compute some factorials!");
             Console.WriteLine("9! = " + factorial(9));
 
             int factorial(int n)
@@ -19,7 +18,13 @@ namespace messageProject
                 }
                 return p;
             }
-        
+            double Gamma(double x)
+            {
+                /* Still awaits implementation*/
+                return factorial((int)x);
+            }
+            Console.WriteLine(Gamma(4));
+
         }
         
     }
